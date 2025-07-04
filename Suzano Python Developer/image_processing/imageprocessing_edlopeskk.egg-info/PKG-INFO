@@ -1,0 +1,49 @@
+Metadata-Version: 2.4
+Name: imageprocessing-edlopeskk
+Version: 0.0.1
+Summary: My short description
+Home-page: https://github.com/edlopes07/image-processing-package.git
+Author: Eduardo
+Author-email: edulopes.alves07@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# package_name
+
+Description. 
+The package package_name is used to:
+	Processing:
+        - Histogram matching
+	    - Structural Similarity
+        - Resize image
+    Utils:
+        - Read image
+        - Save image
+        - Plot image
+        - Plot result
+        - Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install package_name
+```
+
+## Author
+Eduardo
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
